@@ -21,7 +21,7 @@ If you would like to use the location data for your own analysis, I've stored th
 2. Using the tidygeocoder package, I pulled in the latitude and longitude of these addresses (for addresses where the coordinates weren't found, I manually entered them for accuracy purposes)
 3. I pulled in the median household income and total population per county using the tidycensus package
 4. Created leaflet maps
-5. Saved the maps (if you would like to look at the maps created, they are in the maps folder)
+5. Saved the maps (if you would like to look at the maps created, the html files are in the maps folder)
 
 ## The Maps
 * storesmap - plots all the Shake Shake and BurgerFi US store locations on a map
