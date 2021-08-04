@@ -1,0 +1,230 @@
+id,Street,City,State,Zipcode
+1,"200 Summit Blvd. Suite 100",Birmingham,AL,35243
+2,"7014 E. Camelback Road",Scottsdale,AZ,85251
+3,"15030 N Scottsdale Road",Scottsdale,AZ,85254
+4,"100 E. Camelback Road",Phoenix,AZ,85012
+5,3400 E Sky Harbor Blvd,Phoenix,AZ,85034
+6,"2024 E Williams Field Rd",Gilbert,AZ,85295
+7,845 Market Street,San Francisco,CA,94103
+8,"200 N. San Fernando Blvd.",Burbank,CA,91502
+9,"10250 Santa Monica Boulevard",Los Angeles,CA,90067
+10,"3060 Fillmore Street",San Francisco,CA,94123
+11,3705 Paseo Place,San Diego,CA,92130
+12,"400 West 8th Street",Los Angeles,CA,90014
+13,"2171 Rosecrans Avenue",El Segundo,CA,90245
+14,"1151 Galleria Blvd, Ste. FC-12,",Roseville,CA,95678
+15,252 S. Brand Blvd.,Glendale,CA,91204
+16,"33 Hillsdale Shopping Center",San Mateo,CA,94403
+17,6201 Hollywood Blvd,Los Angeles,CA,90028
+18,"1710 R Street",Sacramento,CA,95811
+19,"2008 India Street",San Diego,CA,92101
+20,6440 E Pacific Coast Hwy,Long Beach,CA,90803
+21,"1401 Larkspur Landing Circle",Larkspur,CA,94939
+22,"4786 Admiralty Way",Los Angeles,CA,90292
+23,"675 Camino De La Reina",San Diego,CA,92108
+24,"750 S Arroyo Parkway",Pasadena,CA,91105
+25,180 El Camino Real,Palo Alto,CA,94304
+26,6443 Topanga Canyon Blvd,Canoga Park,CA,91303
+27,"1954 Telegraph Ave",Oakland,CA,94612
+28,"4309 La Jolla Village Drive",San Diego,CA,92122
+29,2855 Stevens Creek Blvd,Santa Clara,CA,95050
+30,120 Promenade Way,Thousand Oaks,CA,91362
+31,8520 Santa Monica Boulevard,West Hollywood,CA,90069
+32,501 Wilshire Blvd,Santa Monica,CA,90401
+33,330 South Hope Street,Los Angeles,CA,90071
+34,1000 Vin Scully Ave,Los Angeles,CA,90012
+35,"1680 29th Street",Boulder,CO,80301
+36,"260 N Josephine Street",Denver,CO,80206
+37,"5507 West 20th Ave",Edgewater,CO,80214
+38,1509 Park Central Drive,Highlands Ranch,CO,80129
+39,"2995 Larimer Street",Denver,CO,80205
+40,"8500 Peña Blvd",Denver,CO,80249
+41,"1340 Post Road",Darien,CT,06820
+42,"986 Chapel Street",New Haven,CT,06510
+43,1445 New Britain Ave,West Hartford,CT,06110
+44,"1849 Post Road East",Westport,CT,06880
+45,"2120 Fashion Center Blvd",New Castle,DE,19702
+46,19565 Biscayne Blvd,Aventura,FL,33180
+47,"1400 Glades Road",Boca Raton,FL,33431
+48,1450 South Dixie Highway,Coral Gables,FL,33146
+49,"8001 S. Orange Blossom Trail",Orlando,FL,32809
+50,100 Terminal Dr,Fort Lauderdale,FL,33315
+51,"2400 N Federal Hwy",Fort Lauderdale,FL,33305
+52,3101 PGA Boulevard,Palm Beach Gardens,FL,33410
+53,"8359 International Drive",Orlando,FL,32819
+54,901 South Miami Ave.,Miami,FL,33130
+55,"1111 Lincoln Road",Miami Beach,FL,33139
+56,"4068 Conroy Rd",Orlando,FL,32839
+57,190 N Cattlemen Road,Sarasota,FL,34243
+58,"2606 Sawgrass Mills Circle",Sunrise,FL,33323
+59,"8810 SW 136th Street",Miami,FL,33176
+60,"119 N Orlando Avenue",Winter Park,FL,32789
+61,"1011 Gramercy Lane",Tampa,FL,33607
+62,"6000 N Terminal Pkwy, Atlanta, GA 30320",Atlanta,GA,30320
+63,3035 Peachtree Road NE,Atlanta,GA,30305
+64,670 DeKalb Ave NE,Atlanta,GA,30312
+65,4400 Ashford Dunwoody Road,Dunwoody,GA,30346
+66,"12 S Michigan Ave",Chicago,IL,60603
+67,"1950 Spring Road",Oak Brook,IL,60523
+68,4999 Old Orchard Center,Skokie,IL,60077
+69,"66 E. Ohio Street",Chicago,IL,60611
+70,1765 E. Golf Rd,Schaumburg,IL,60173
+71,864 E. Townline Road,Vernon Hills,IL,60061
+72,"185 N. Morgan Street",Chicago,IL,60607
+73,316 W. Jackson Blvd,Chicago,IL,60606
+74,3519 North Clark St,Chicago,IL,60657
+75,"9701 E 116th Street",Fishers,IN,46037
+76,5200 W. 119th Street,Leawood,KS,66209
+77,115 Summit at Fritz Farm,Lexington,KY,40517
+78,333 Canal Street,New Orleans,LA,70130
+79,3501 Veterans Memorial,Metairie,LA,70002
+80,"900 Airline Dr, Kenner",Kenner,LA,70062
+81,"7997 Tuckerman Lane",Potomac,MD,20854
+82,"400 E. Pratt Street",Baltimore,MD,21202
+83,"10300 Little Patuxent Pkwy",Columbia,MD,21044
+84,"1101 Russell St.",Baltimore,MD,21230
+85,"101 MGM National Avenue",National Harbor,MD,20745
+86,1 East Joppa Road,Towson,MD,21286
+87,75 Middlesex Turnpike,Burlington,MA,01803
+88,"355 Assembly Row",Somerville,MA,02145
+89,"106 Arsenal Yards Blvd",Watertown,MA,02472
+90,"77 Seaport Blvd",Boston,MA,02210
+91,"49 Boylston Street",Chestnut Hill,MA,02467
+92,"226 Legacy Place",Dedham,MA,02026
+93,322 Washington St,Boston,MA,02108
+94,"92 Winthrop Street",Cambridge,MA,02138
+95,"234-236 Newbury Street",Boston,MA,02116
+96,300 Mishawum Rd,Woburn,MA,01801
+97,3030 Washtenaw Ave #107,Ann Arbor,MI,48104
+98,"660 Woodward Avenue",Detroit,MI,48226
+99,2800 W Big Beaver Rd,Troy,MI,48084
+100,"850 West Big Beaver Road",Troy,MI,48084
+101,"332 North Garden",Bloomington,MN,55425
+102,"4300 Glumack Drive",St Paul,MN,55111
+103,6603 France Ave S,Edina,MN,55435
+104,60 North Euclid,St Louis,MO,63108
+105,"239 West 47th Street",Kansas City,MO,64112
+106,8885 Ladue Rd,St Louis,MO,63124
+107,"2225 Village Walk Drive",Henderson,NV,89052
+108,"McCarran International Airport",Las Vegas,NV,89119
+109,"3790 S Las Vegas Blvd",Las Vegas,NV,89109
+110,"905 South Grand Central Parkway",Las Vegas,NV,89106
+111,"10975 Oval Park Drive",Las Vegas,NV,89135
+112,"3780 S Las Vegas Blvd",Las Vegas,NV,89109
+113,"610 Commons Way",Bridgewater,NJ,08807
+114,795 Haddonfield Road,Cherry Hill,NJ,08002
+115,180 NJ-35 South,Eatontown,NJ,07724
+116,1 Garden State Plaza,Paramus,NJ,07652
+117,"111 Washington Street",Hoboken,NJ,07030
+118,"280 Eisenhower Parkway",Livingston,NJ,07039
+119,"321 Route 70 West",Marlton,NJ,08053
+120,"Garden State Parkway Mile Marker 100",Wall Township,NJ,07719
+121,"479 Route 17 South",Paramus,NJ,07652
+122,70 Waterview Blvd,Parsippany,NJ,07054
+123,3303 Brunswick Pike,Lawrence Township,NJ,08648
+124,96 Willowbrook Blvd,Wayne,NJ,07470
+125,1700 Broadway,New York,NY,10019
+126,"20 Third Avenue",New York,NY,10003
+127,"215 Murray Street",New York,NY,10282
+128,"344 Baychester Ave",Bronx,NY,10475
+129,"120 W 42nd Street",New York,NY,10019
+130,"12301 Roosevelt Ave",Queens,NY,11368
+131,"2090 Mall Walk",Yonkers,NY,10704
+132,"409 Fulton Street",Brooklyn,NY,11201
+133,"1 Old Fulton Street",Brooklyn,NY,11201
+134,"35 Richmond Terrace",Staten Island,NY,10301
+135,"170 Flatbush Avenue",Brooklyn,NY,11217
+136,"71-26 Austin Street",Forest Hills,NY,11375
+137,"200 Broadway",New York,NY,10038
+138,"49 Grand Central Terminal",New York,NY,10017
+139,"1 West 125th Street",New York,NY,10027
+140,379 North Central Avenue,Hartsdale,NY,10530
+141,"1333 Broadway",New York,NY,10018
+142,"20 Hudson Yards",New York,NY,10001
+143,John F. Kennedy International Airport,New York,NY,11430
+144,"LaGuardia Airport",Queens,NY,11371
+145,"2093 Smith Haven Plaza",Lake Grove,NY,11755
+146,"Southeast corner of Madison Square Park",New York,NY,10010
+147,"849 Walt Whitman Road",Melville,NY,11747
+148,"600 Third Avenue",New York,NY,10016
+149,"2957 Broadway",New York,NY,10025
+150,"4 West Route 59, Rockland Plaza",Nanuet,NY,10954
+151,"1570 Union Turnpike",New Hyde Park,NY,11040
+152,90-15 Queens Blvd,Elmhurst,NY,11373
+153,"267 Union Avenue",Saratoga Springs,NY,12866
+154,2655 Richmond Ave,Staten Island,NY,10314
+155,"691 8th Avenue",New York,NY,10036
+156,"154 East 86th Street",New York,NY,10028
+157,"366 Columbus Avenue",New York,NY,10024
+158,"225 Varick Street",New York,NY,10014
+159,"860 Old Country Road",Garden City,NY,11530
+160,"125 Westchester Ave",White Plains,NY,10601
+161,"160 Berry Street",Brooklyn,NY,11249
+162,"199 Niagara Lane",Central Valley,NY,10917
+163,9824 Rea Road,Charlotte,NC,28277
+164,"1605 East Woodlawn Road",Charlotte,NC,28209
+165,310 Colonades Way,Cary,NC,27518
+166,5501 Josh Birmingham Pkwy,Charlotte,NC,28208
+167,1930 Camden Rd,Charlotte,NC,28203
+168,16633 Birkdale Commons Parkway,Huntersville,NC,28078
+169,5300 Riverside Dr,Cleveland,OH,44135
+170,"601 Euclid Avenue",Cleveland,OH,44114
+171,4005 The Strand West,Columbus,OH,43229
+172,311 Park Avenue,Orange Village,OH,44122
+173,740 N. High Street,Columbus,OH,43215
+174,2597 SW Cedar Hills Blvd,Beaverton,OR,97005
+175,"2000 Sansom Street",Philadelphia,PA,19103
+176,1 Citizens Bank Way,Philadelphia,PA,19148
+177,160 North Gulph Road,King of Prussia,PA,19406
+178,350 Mall Blvd,King of Prussia,PA,19406
+179,105 South 12th Street,Philadelphia,PA,19107
+180,"3200 Chestnut Street",Philadelphia,PA,19104
+181,"3601 S Broad St",Philadelphia,PA,19148
+182,500 West Germantown Pike,Plymouth Meeting,PA,19462
+183,40 Coulter Avenue,Ardmore,PA,19003
+184,249 Thayer Street,Providence,RI,02906
+185,"5027 Aspen Grove Drive",Franklin,TN,37067
+186,4031 Hillsboro Pike,Nashville,TN,37215
+187,"5002 Broadway Place",Nashville,TN,37203
+188,5290 Belt Line Road,Dallas,TX,75254
+189,3003 Broadway Street,San Antonio,TX,78209
+190,"2500 N Pearl Street",Dallas,TX,75201
+191,"2400 Aviation Dr",DFW Airport,TX,75261
+192,"11228 Domain Drive",Austin,TX,78759
+193,702 Main Street,Houston,TX,77002
+194,5015 Westheimer Road,Houston,TX,77056
+195,"7170 N. State Highway 161",Irving,TX,75039
+196,501 Crawford St,Houston,TX,77002
+197,"1002 Westheimer Rd",Houston,TX,77006
+198,5500 Greenville Ave,Dallas,TX,75206
+199,"7427 San Pedro Avenue",San Antonio,TX,78216
+200,"7401 Windrose Avenue",Plano,TX,75024
+201,"6025 Royal Lane",Dallas,TX,75230
+202,6205 Kirby Drive,Houston,TX,77005
+203,"125 Central Avenue",Southlake,TX,76092
+204,1100 South Lamar Blvd,Austin,TX,78704
+205,"122 E. Exchange Ave",Fort Worth,TX,76164
+206,"1201 Lake Woodlands Drive",The Woodlands,TX,77382
+207,"6123 South State Street",Murray,UT,84107
+208,"Shake Shack – The School Yard11020 S. State Street, Suite B",Sandy,UT,84070
+209,"776 N Terminal Dr",Salt Lake City,UT,84122
+210,"4201 Wilson Blvd , suite 0180",Arlington,VA,22203
+211,"1100 South Hayes Street
+Space H25",Arlington,VA,22202
+212,"The Plaza at Tysons Corner Center
+7924U Tysons Corner Center",McLean,VA,22102
+213,"296 Constitution Drive",Virginia Beach,VA,23462
+214,300 Peter Kirk Lane,Kirkland,WA,98033
+215,2115 Westlake Avenue,Seattle,WA,98121
+216,"2580 NE University Village Street",Seattle,WA,98105
+217,"1216 18th Street NW
+(SW corner of Connecticut)",Washington,DC,20036
+218,"800 F Street NW
+(Corner of 9th Street NW)",Washington,DC,20004
+219,"1400 14th Street NW",Washington,DC,20005
+220,"1500 South Capitol Street SE",Washington,DC,20003
+221,"54 M Street SE",Washington,DC,20003
+222,"975 Wharf Street SW",Washington,DC,20024
+223,"50 Massachusetts Avenue NE",Washington,DC,20002
+224,"558 N Midvale Blvd",Madison,WI,53705
+225,"220 East Buffalo Street, Suite 110",Milwaukee,WI,53202
